@@ -25,11 +25,18 @@ h2:after
 
 </style>
 
+<meta property="og:title" content="Pollen-Climate Model Intercomparison Project">
+<meta property="og:image" content="images/logo.svg">
+<meta property="og:description" content="Homepage for the Pollen-Climate Model Intercomparison Project February Meeting.">
+<meta property="og:url" content="http://pcmip.github.io">
+
+<div style="text-align:center;">
+  <img src="images/logo.svg">
+</div>
+
 # Pollen-Climate Model Intercomparison Project
 
-<p align='middle'>February 21 - 23, 2018  Mt Royal University Calgary, Alberta</p>
-
-<img src="images/logo.svg" align="middle">
+<p>February 21 - 23, 2018  Mt Royal University Calgary, Alberta</p>
 
 ## Organizers
 
