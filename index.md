@@ -26,7 +26,7 @@ h2:after
 </style>
 
 <meta property="og:title" content="Pollen-Climate Model Intercomparison Project">
-<meta property="og:image" content="images/logo.svg">
+<meta property="og:image" content="images/logo.png">
 <meta property="og:description" content="Homepage for the Pollen-Climate Model Intercomparison Project February Meeting.">
 <meta property="og:url" content="http://pcmip.github.io">
 
