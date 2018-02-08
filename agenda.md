@@ -9,7 +9,6 @@ weight: 1
 .new_papers:hover{
 
   background:#cccccc;
-  font-weight:bold;
 
 }
 
