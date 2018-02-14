@@ -57,25 +57,33 @@ h2:after
 
 <div class="new_papers">
   <ul>
+    <li> Welcome to Mount Royal</li>
     <li>Meeting background, expectations & workplan</li>
     <li>Introductions [participant list]</li>
-    <li>PCMIP background - Draft modeling paper</li>
+    <li> PCMIP background and progress including: </li>
+    <ul>
+    <li> Methods overview </li>
+    <li> Introduction of "Practical Benchmarking" </li>
+    </ul>
   </ul>
   <p align="right"><a href="https://docs.google.com/presentation/d/e/2PACX-1vSZ1YNMvf0J6fTG2Rf9QkuNW2tlj7f3o4q3J76pEYB54NDdjZDdpFuI1SAEdIW0BWAruiDGYkI02aNm/pub?start=false&loop=false&delayms=5000"><b>Linked background slides</b></a></p>
 </div>
 
-### 10:00am
+### 10:20am
 
 <div class="new_papers">
   <ul>
-    <li>State of model intercomparisons
-        <ul>
-          <li>More PCMIP background, some figures from pubs</li>
-          <li>Introducing the concept of “Practical Benchmarking”</li>
-        </ul>
-    </li>
-    <li>Worked intercomparison for discussion [<a href="https://github.com/SimonGoring/NonAnalogues">Goring No Analogues</a>]</li>
-    <li>Worked example for discussion [Tipton & Nolan]</li>
+    <li> Break </li>
+  </ul>
+</div>
+
+### 10:45 am
+
+<div class="new_papers">
+  <ul>
+    <li> Worked example for discussion [Goring] </li>
+    <li> Worked example for discussion [Tipton & Nolan] </li>
+    <li> Discussion and brainstorming on methods, data, and benchmarks </li>
   </ul>
 </div>
 
@@ -83,7 +91,7 @@ h2:after
 
 <div class="new_papers">
   <ul>
-    <li> Proposed workflow and writing strategy</li>
+    <li> Introduction to and discussion of proposed workflow and writing strategy</li>
   </ul>
   <p align="right"><a href="https://docs.google.com/presentation/d/e/2PACX-1vTLlzcz3Bqem66os-9Yeta9jwME42pjKTzQ1AsVTVoNA7Nz2L1gsvYdqZOawYbpy7cocekuTV2hLPC3/pub?start=false&loop=false&delayms=5000"><b>Linked workflow slides</b></a></p>
 </div>
@@ -113,7 +121,15 @@ h2:after
   </ul>
 </div>
 
-### 2:30 pm
+### 2:30pm
+
+<div class="new_papers">
+  <ul>
+    <li> Break </li>
+  </ul>
+</div>
+
+### 3:00 pm
 <div class="new_papers">
   <ul>
     <li>Choosing and describing datasets</li>
@@ -122,6 +138,22 @@ h2:after
     <li>How are the repositories structured?  READMEs, data folders, taxon translation tables, &cetera.</li>
   </ul>
   <p align="right"><a href="https://docs.google.com/presentation/d/e/2PACX-1vTk4nWsvFh2An78jdDa7NwPoBJb1bezYXILtHH1G_F_Bp1vKBSTgT5spGbgHuyv6CK04iROEMoDjLFj/pub?start=false&loop=false&delayms=3000"><b>Linked dataset slides</b></a></p>
+</div>
+
+### 4:30pm
+
+<div class="new_papers">
+  <ul>
+    <li> Disperse and free time </li>
+  </ul>
+</div>
+
+### 6:00pm
+
+<div class="new_papers">
+  <ul>
+    <li> Meet in lobby to travel to Andria and Matt's for dinner</li>
+  </ul>
 </div>
 
 <div>
