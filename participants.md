@@ -6,6 +6,11 @@ permalink: /participants/
 
 <style>
 
+.part-name {
+	font-size: 1.2rem;
+	color: #000099;
+}
+
 .floating-box {
     display: inline-block;
     width: 100%;
@@ -25,7 +30,8 @@ permalink: /participants/
 .bio {
 	float: left;
     display: inline-block;
-    width: 65%;
+    width: 80%;
+    font-size: 0.8em;
 }
 
 .photo {
@@ -53,103 +59,26 @@ h2:after
 
 The PCMIP meeting would not be possible without the contributions of the project participants.  The second PCMIP meeting includes the following individuals:
 
-# Organizers
-
+{% for participant in site.data.persons %}
 <div class="floating-box">
 	<div class="bio">
-		<b>Andria Dawson</b>
+		<b class="part-name">{{participant.name}}</b>
+		{% if participant.orcid %}
+		<small>ORCID: <a href="https://orcid.org/{{participant.orcid}}">{{participant.orcid}}</a></small>
+		{% endif %}
+		{% if participant.website and participant.orcid %} -- {% endif %}
+		{% if participant.website %}
+		<small><a href="{{participant.website}}">Personal Website</a></small>
+		{% endif %}
+		<br>
+		<b>{{participant.institution}}</b><br>
+		{{participant.bio}}
 	</div>
 	<div class="photo">
-		<img src="/images/woman_head.svg" height="60">
-	</div>
-</div>
-	
-<div class="floating-box">
-	<div class="bio">
-		<b>Simon Goring</b>
-	</div>
-	<div class="photo">
-		<img src="/images/woman_head.svg" height="60">
-	</div>
-</div>
-
-<div class="floating-box">
-	<div class="bio">
-		<b>Basil Davis</b>
-	</div>
-	<div class="photo">
-		<img src="/images/woman_head.svg" height="60">
+		{% if participant.head %}
+		<img src="{{participant.head}}" height="60">
+		{% endif %}
 	</div>
 </div>
 
-
-# Participants
-
-<div class="floating-box">
-	<div class="bio">
-		<b>Yue Wang</b> <small>ORCID: <a href="https://orcid.org/0000-0002-9826-3276">0000-0002-9826-3276</a></small>
-	</div>
-	<div class="photo">
-		<img src="/images/woman_head.svg" height="60">
-	</div>
-</div>
-
-<div class="floating-box">
-	<div class="bio">
-		<b>Michelle Chaput</b>
-	</div>
-	<div class="photo">
-		<img src="/images/woman_head.svg" height="60">
-	</div>
-</div>
-<div class="floating-box">
-	<div class="bio">
-		<b>Konrad Gajewski</b>
-	</div>
-	<div class="photo">
-		<img src="/images/woman_head.svg" height="60">
-	</div>
-</div>
-<div class="floating-box">
-	<div class="bio">
-		<b>Connor Nolan</b>
-	</div>
-	<div class="photo">
-		<img src="/images/woman_head.svg" height="60">
-	</div>
-</div>
-
-<div class="floating-box">
-	<div class="bio">
-		<b>John Tipton</b>
-	</div>
-	<div class="photo">
-		<img src="/images/woman_head.svg" height="60">
-	</div>
-</div>
-
-<div class="floating-box">
-	<div class="bio">
-		<b>Simon Brewer</b>
-	</div>
-	<div class="photo">
-		<img src="/images/woman_head.svg" height="60">
-	</div>
-</div>
-
-<div class="floating-box">
-	<div class="bio">
-		<b>Terri Lacourse</b>
-	</div>
-	<div class="photo">
-		<img src="/images/woman_head.svg" height="60">
-	</div>
-</div>
-<div class="floating-box">
-	<div class="bio">
-		<b>Manuel Chevalier</b>
-	</div>
-	<div class="photo">
-		<img src="/images/woman_head.svg" height="60">
-	</div>
-</div>
+{% endfor %}

@@ -1,0 +1,75 @@
+- name: Connor Nolan
+  institution: University of Arizona
+  email: connorjnolan@gmail.com
+
+- name: John Tipton
+  institution: University of Arkansas
+  email: jrtipton@uark.edu
+  website: www.johnrtipton.com
+  orcid: 0000-0002-6135-8191
+  bio: >
+    John develops Bayesian hierarchical models and statistical methods to answer 
+    ecological and other scientific questions. John focuses on spatial, 
+    spatio-temporal, and computational methods for prediction and inference.
+  head: /images/john_tipton.jpg
+
+- name: Michelle Chaput
+  institution: University of Ottawa
+  email: mchaput@uottawa.ca
+  website: http://www.lpc.uottawa.ca/members/chaput/index.html
+  orcid: 0000-0002-9448-4135
+  bio: >
+    Michelle Chaput is a PhD candidate in the Department of Geography, Environment and Geomatics 
+    at the University of Ottawa. She is a biogeographer specializing in past human-environment 
+    interactions, and is currently working with the Canadian Archaeological Radiocarbon Database 
+    and the Neotoma Paleoecology Database to study paleodemography and paleoenvironments in 
+    North America.
+  head: /images/chaput_head.jpg
+
+- name: Yue Wang
+  institution: Georgia Tech
+  email: yue.wang.pku@gmail.com
+  orcid: 0000-0002-9826-3276
+  bio: >
+    I am a paleoecologist interested in communities and ecosystems shifts in response to climate 
+    and other environment changes since the last glaciation. My previous works are based on 
+    paleo-terrestrial records (pollen, charcoal, LOI, etc.), dynamic ecological models and large 
+    spatial climate data (Niche Mapper, LPJ-GUESS, CCSM3, etc.), and other statistical analysis.
+  head: /images/wang_head.jpg
+
+- name: Simon Goring
+  institution: University of Wisconsin -- Madison
+  email: goring@wisc.edu
+  orcid: 0000-0002-2700-4605
+  website: http://goring.org
+  bio: >
+    My publication record focuses on relationships between biotic systems and large scale 
+    climatic change at time-scales of centuries to millenia, but my research efforts focus 
+    on facilitating broader engagement with the tools and methods neccessary to build the 
+    technical toolkits we require to move forward as a society.
+  head: /images/sjg_headshot.png
+
+
+- name: Andria Dawson
+  institution: Mount Royal University
+  email: adawson@mtroyal.ca
+
+- name: Basil Davis
+  institution: Universite de Lausanne
+  email: basil.davis@unil.ch
+
+- name: Konrad Gajewski
+  institution: University of Ottawa
+  email: gajewski@uottawa.ca
+
+- name: Simon Brewer
+  institution: University of Utah
+  email: simon.brewer@geog.utah.edu
+
+- name: Terri Lacourse
+  institution: University of Victoria
+  email: tlacours@uvic.ca
+
+- name: Manuel Chevalier
+  institution: Universite de Lausanne
+  email: manuel.chevalier@unil.ch

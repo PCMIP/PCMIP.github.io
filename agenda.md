@@ -235,7 +235,7 @@ h2:after
 
 <div class="new_papers">
   <img src="images/noun_928731_cc.svg" height="50" style="padding-right:20px">
-  Lunch at campus food court.
+  Catered lunch at meeting rooms.
 </div>
 
 ### 1:00 pm
