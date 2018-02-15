@@ -7,6 +7,7 @@
 
 # Site settings
 title: Pollen Climate Model Intercomparison Project
+shorttitle: PC-MIP
 email: goring@wisc.edu
 description: > # this means to ignore newlines until "baseurl:"
   The Pollen Climate Model Intercomparison project is part of a PAGES funded initiative, 
