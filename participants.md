@@ -12,31 +12,37 @@ permalink: /participants/
 }
 
 .floating-box {
-    display: inline-block;
     width: 100%;
     padding-left:5px;
     padding-right:5px;
     padding-top:5px;
     padding-bottom:5px;
-    border: 1px solid;  
+    border: 1px solid; 
+    overflow: hidden;
+    position: relative;
 }
 
 .floating-box:hover{
-
   background:#cccccc;
-
 }
 
 .bio {
 	float: left;
-    display: inline-block;
-    width: 80%;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    padding-left: 1%;
+    padding-right: 5px;
+    max-width: 78%;
     font-size: 0.8em;
+    margins: auto;
+    vertical-align: middle;
 }
 
 .photo {
 	float: right;
-    display: inline-block;
+	height: 100%;
+	width: 18%;
 }
 
 h1:after
@@ -76,7 +82,7 @@ The PCMIP meeting would not be possible without the contributions of the project
 	</div>
 	<div class="photo">
 		{% if participant.head %}
-		<img src="{{participant.head}}" height="60">
+		<img src="{{participant.head}}">
 		{% endif %}
 	</div>
 </div>

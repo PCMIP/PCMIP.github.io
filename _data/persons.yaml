@@ -1,6 +1,13 @@
 - name: Connor Nolan
   institution: University of Arizona
   email: connorjnolan@gmail.com
+  orcid: 0000-0002-2780-2041
+  bio: >
+    Connor is a PhD candidate at the University of Arizona working on new records of past 
+    hydroclimate and ecological change from lakes and bogs in Maine and Minnesota, developing 
+    new statistical tools to improve inferences from these proxies, and synthesizing paleoclimate 
+    and paleoecological records at regional to global scales.
+  head: /images/connor_head.jpg
 
 - name: John Tipton
   institution: University of Arkansas

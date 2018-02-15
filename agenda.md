@@ -57,13 +57,13 @@ h2:after
 
 <div class="new_papers">
   <ul>
-    <li> Welcome to Mount Royal</li>
+    <li>Welcome to Mount Royal</li>
     <li>Meeting background, expectations & workplan</li>
     <li>Introductions [participant list]</li>
-    <li> PCMIP background and progress including: </li>
+    <li>PCMIP background and progress including: </li>
     <ul>
-    <li> Methods overview </li>
-    <li> Introduction of "Practical Benchmarking" </li>
+      <li>Methods overview </li>
+      <li>Introduction of "Practical Benchmarking" </li>
     </ul>
   </ul>
   <p align="right"><a href="https://docs.google.com/presentation/d/e/2PACX-1vSZ1YNMvf0J6fTG2Rf9QkuNW2tlj7f3o4q3J76pEYB54NDdjZDdpFuI1SAEdIW0BWAruiDGYkI02aNm/pub?start=false&loop=false&delayms=5000"><b>Linked background slides</b></a></p>
@@ -91,7 +91,7 @@ h2:after
 
 <div class="new_papers">
   <ul>
-    <li> Introduction to and discussion of proposed workflow and writing strategy</li>
+    <li>Revisit goals - Proposed workflow and writing strategy</li>
   </ul>
   <p align="right"><a href="https://docs.google.com/presentation/d/e/2PACX-1vTLlzcz3Bqem66os-9Yeta9jwME42pjKTzQ1AsVTVoNA7Nz2L1gsvYdqZOawYbpy7cocekuTV2hLPC3/pub?start=false&loop=false&delayms=5000"><b>Linked workflow slides</b></a></p>
 </div>
@@ -133,10 +133,18 @@ h2:after
 <div class="new_papers">
   <ul>
     <li>Choosing and describing datasets</li>
-    <li>Broadly available datasets (NA MPD, European Pollen Dataset, others?)</li>
-    <li>What do they test?  What common standards do we need?  What climate data, or secondary proxy data do we use?</li>
-    <li>How are the repositories structured?  READMEs, data folders, taxon translation tables, &cetera.</li>
+    <ul>
+      <li>Broadly available datasets (NA MPD, European Pollen Dataset, others?)</li>
+      <li>What do they test?  What common standards do we need?  What climate data, or secondary proxy data do we use?</li>
+      <li>How are the repositories structured?  READMEs, data folders, taxon translation tables, &cetera.</li>
+    </ul>
+    <li>Group debrief of the breakouts focusing on the question/dataset interface (what are the most well resolved questions, what are the best datasets?)</li>
+    <ul>
+      <li>Go through questions (e.g., no-analogue)</li>
+      <li>Suggest datasets (e.g. NAMPD)</li>
+    </ul>
   </ul>
+
   <p align="right"><a href="https://docs.google.com/presentation/d/e/2PACX-1vTk4nWsvFh2An78jdDa7NwPoBJb1bezYXILtHH1G_F_Bp1vKBSTgT5spGbgHuyv6CK04iROEMoDjLFj/pub?start=false&loop=false&delayms=3000"><b>Linked dataset slides</b></a></p>
 </div>
 
@@ -152,7 +160,7 @@ h2:after
 
 <div class="new_papers">
   <ul>
-    <li> Meet in lobby to travel to Andria and Matt's for dinner</li>
+    <li> Meet in lobby to travel for dinner</li>
   </ul>
 </div>
 
@@ -179,11 +187,19 @@ h2:after
   </ul>
 </div>
 
+### 10:30am - 10:45am
+
+<div class="new_papers">
+  <ul>
+    <li> Break </li>
+  </ul>
+</div>
+
 ### 11:30 am
 
 <div class="new_papers">
   <ul>
-    <li>State of the Workshop</li>
+    <li>State of the Workshop - Restating Goals, revising timelines & breakout roles</li>
   </ul>
 </div>
 
@@ -208,6 +224,14 @@ h2:after
         <li>Documentation</li>
       </ul>
     </li>
+  </ul>
+</div>
+
+### 2:30pm - 2:45pm
+
+<div class="new_papers">
+  <ul>
+    <li> Break </li>
   </ul>
 </div>
 
