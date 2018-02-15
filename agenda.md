@@ -7,21 +7,29 @@ weight: 1
 <style>
 
 .new_papers:hover{
-
-  background:#cccccc;
-
+  background:#bbbbbb;
 }
 
 .new_papers{
-
-  background:#eeeeee;
+  background:#cccccc;
   margin-bottom:10px;
   padding-top:10px;
   padding-left:10px;
   padding-right:10px;
   padding-bottom:10px;
-
+  vertical-align:middle;
 }
+
+.break_time{
+  background:#eeeeee;
+  border: 2px;
+  margin-bottom:10px;
+  padding-top:10px;
+  padding-left:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+}
+
 
 h1:after
 {
@@ -71,10 +79,9 @@ h2:after
 
 ### 10:20am
 
-<div class="new_papers">
-  <ul>
-    <li> Break </li>
-  </ul>
+<div class="break_time">
+  <img src="images/noun_975695_cc.svg" height="50" style="padding-right:20px">
+  <b>Break</b>
 </div>
 
 ### 10:45 am
@@ -96,9 +103,9 @@ h2:after
   <p align="right"><a href="https://docs.google.com/presentation/d/e/2PACX-1vTLlzcz3Bqem66os-9Yeta9jwME42pjKTzQ1AsVTVoNA7Nz2L1gsvYdqZOawYbpy7cocekuTV2hLPC3/pub?start=false&loop=false&delayms=5000"><b>Linked workflow slides</b></a></p>
 </div>
 
-### Noon - 1 pm
+### Noon
 
-<div class="new_papers">
+<div class="break_time">
   <img src="images/noun_928731_cc.svg" height="50" style="padding-right:20px">
   Lunch at campus food court.
 </div>
@@ -123,10 +130,9 @@ h2:after
 
 ### 2:30pm
 
-<div class="new_papers">
-  <ul>
-    <li> Break </li>
-  </ul>
+<div class="break_time">
+  <img src="images/noun_975695_cc.svg" height="50" style="padding-right:20px">
+  <b>Break</b>
 </div>
 
 ### 3:00 pm
@@ -189,10 +195,9 @@ h2:after
 
 ### 10:30am - 10:45am
 
-<div class="new_papers">
-  <ul>
-    <li> Break </li>
-  </ul>
+<div class="break_time">
+  <img src="images/noun_975695_cc.svg" height="50" style="padding-right:20px">
+  <b>Break</b>
 </div>
 
 ### 11:30 am
@@ -205,7 +210,7 @@ h2:after
 
 ### Noon - 1 pm
 
-<div class="new_papers">
+<div class="break_time">
   <img src="images/noun_928731_cc.svg" height="50" style="padding-right:20px">
   Lunch at campus food court.
 </div>
@@ -229,17 +234,24 @@ h2:after
 
 ### 2:30pm - 2:45pm
 
-<div class="new_papers">
-  <ul>
-    <li> Break </li>
-  </ul>
+<div class="break_time">
+  <img src="images/noun_975695_cc.svg" height="50" style="padding-right:20px">
+  <b>Break</b>
 </div>
 
 ### 3:00 pm
 
 <div class="new_papers">
   <ul>
-    <li>State of the Workshop</li>
+    <li>Working Groups II: The Revenge</li>
+  </ul>
+</div>
+
+### 4:00 pm
+
+<div class="new_papers">
+  <ul>
+    <li>State of the Workshop - End of day wrap-up</li>
   </ul>
 </div>
 
@@ -252,12 +264,17 @@ h2:after
 ### 9:00 am
 
 <div class="new_papers">
-  Writing and planning.
+  <ul>
+    <li>Recap goals & final discussion</li>
+    <li>GitHub cleanup &cetera</li>
+    <li>Troubleshooting</li>
+    <li>Working groups</li>
+  </ul>
 </div>
 
 ### Noon - 1 pm
 
-<div class="new_papers">
+<div class="break_time">
   <img src="images/noun_928731_cc.svg" height="50" style="padding-right:20px">
   Catered lunch at meeting rooms.
 </div>
@@ -265,11 +282,16 @@ h2:after
 ### 1:00 pm
 
 <div class="new_papers">
-  Meeting wrap-up
+  <ul>
+    <li>Meeting wrap-up</li>
+    <li>State of the Working Groups</li>
+    <li>State of the Meeting</li>
+    <li>Accountability</li>
+  </ul>
 </div>
 
 ### 2:00 pm
 
-<div class="new_papers">
+<div class="break_time">
   Meeting finished
 </div>
