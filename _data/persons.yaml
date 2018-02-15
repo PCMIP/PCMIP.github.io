@@ -78,5 +78,14 @@
   email: tlacours@uvic.ca
 
 - name: Manuel Chevalier
+  website: https://chevaliermanuel.wixsite.com/webpage
+  orcid: 0000-0002-8183-9881
   institution: Universite de Lausanne
   email: manuel.chevalier@unil.ch
+  bio: >
+    I am a palaeoclimatologist interested in the quantification of past climates. 
+    My work is primarily focused on developing statistical techniques that quantify 
+    and integrate the major sources of uncertainties of proxy records (e.g. temporal, 
+    climatic or taphonomic) to derive more representative palaeorecords of past 
+    spatial-temporal climate variability.
+  head: /images/manual_headshot.png
