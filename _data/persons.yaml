@@ -60,6 +60,9 @@
 - name: Andria Dawson
   institution: Mount Royal University
   email: adawson@mtroyal.ca
+  head: /images/andriaDawson.png
+  website: http://www.andriadawson.org/
+  orcid: 0000-0001-6562-2634
 
 - name: Basil Davis
   institution: Universite de Lausanne
@@ -68,6 +71,17 @@
 - name: Konrad Gajewski
   institution: University of Ottawa
   email: gajewski@uottawa.ca
+  website: http://www.lpc.uottawa.ca
+  head: /images/konrad_headshot.jpg
+  orcid: 0000-0003-4677-7432
+  bio: >
+    K Gajewski is a Professor in the Department of Geography, Environment and Geomatics at 
+    the University of Ottawa, and cross-listed in the Ottawa-Carleton Institute of Biology 
+    and Ottawa-Carleton Geoscience Centre. He is a paleoclimatologist who works on 
+    quantitative reconstruction and mapping of past climates as well as understanding 
+    human-ecosystem interactions over the past 15000 years. He also has a field/lab program 
+    developing new multi-proxy records, particularly from the Canadian Arctic.
+
 
 - name: Simon Brewer
   institution: University of Utah
