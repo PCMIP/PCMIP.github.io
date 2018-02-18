@@ -316,7 +316,7 @@ h2:after
 
 <div class="new_papers">
   <ul>
-    <li>Working groups III: </li>
+    <li>Breakout into working groups </li>
   </ul>
 </div>
 
