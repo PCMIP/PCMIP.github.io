@@ -1,7 +1,7 @@
 ---
 title: Meeting Agenda
 layout: default
-weight: 1
+weight: 11
 ---
 
 <style>
@@ -61,6 +61,14 @@ h2:after
 
 ## February 21, 2018
 
+### 8:30am
+
+<div class="new_papers">
+  <ul>
+    <li>Breakfast (served in EA 2007)</li>
+  </ul>
+</div>
+
 ### 9:00am
 
 <div class="new_papers">
@@ -77,28 +85,21 @@ h2:after
   <p align="right"><a href="https://docs.google.com/presentation/d/e/2PACX-1vSZ1YNMvf0J6fTG2Rf9QkuNW2tlj7f3o4q3J76pEYB54NDdjZDdpFuI1SAEdIW0BWAruiDGYkI02aNm/pub?start=false&loop=false&delayms=5000"><b>Linked background slides</b></a></p>
 </div>
 
-### 10:20am
+### 10:30am
 
 <div class="break_time">
   <img src="images/noun_975695_cc.svg" height="50" style="padding-right:20px">
   <b>Break</b>
 </div>
 
-### 10:45 am
+### 11:00 am
 
 <div class="new_papers">
   <ul>
     <li> Worked example for discussion [Goring] </li>
     <li> Worked example for discussion [Tipton & Nolan] </li>
     <li> Discussion and brainstorming on methods, data, and benchmarks </li>
-  </ul>
-</div>
-
-### 11:30 am
-
-<div class="new_papers">
-  <ul>
-    <li>Revisit goals - Proposed workflow and writing strategy</li>
+    <li> Revisit goals - Proposed workflow and writing strategy</li>
   </ul>
   <p align="right"><a href="https://docs.google.com/presentation/d/e/2PACX-1vTLlzcz3Bqem66os-9Yeta9jwME42pjKTzQ1AsVTVoNA7Nz2L1gsvYdqZOawYbpy7cocekuTV2hLPC3/pub?start=false&loop=false&delayms=5000"><b>Linked workflow slides</b></a></p>
 </div>
@@ -107,14 +108,26 @@ h2:after
 
 <div class="break_time">
   <img src="images/noun_928731_cc.svg" height="50" style="padding-right:20px">
-  Lunch at campus food court.
+  Lunch at Wyckham House (campus food court).
 </div>
 
 ### 1:00 pm
 <div class="new_papers">
   <ul>
+    <li>MRU welcome from both:
+    <ul>
+        <li>Michael Quinn, Associate Vice President of Research, Scholarhip and Community Engagement, and </li>
+        <li>Karim Dharamsi, Chair, Department of General Education </li>
+  </ul></li>
+  </ul>
+</div>
+
+
+### 1:30 pm
+<div class="new_papers">
+  <ul>
     <li>Benchmarking approaches [Basil, some background - 20 mins]</li>
-    <li>Breakouts
+    <li>Breakout into working Groups:
       <ul>
         <li>Rotating groups asking questions around the "key questions"
         <ul>
@@ -166,7 +179,7 @@ h2:after
 
 <div class="new_papers">
   <ul>
-    <li> Meet in lobby to travel for dinner</li>
+    <li> Meet in lobby to travel to dinner (hosted by Andria and Matt)</li>
   </ul>
 </div>
 
@@ -176,13 +189,21 @@ h2:after
 
 ## February 22, 2018
 
+### 8:30am
+
+<div class="new_papers">
+  <ul>
+    <li>Breakfast (served in EA 2007)</li>
+  </ul>
+</div>
+
 ### 9:00 am
 
 <div class="new_papers">
   <ul>
-    <li>Recap (30 minutes)</li>
+    <li>Recap</li>
     <li>GitHub Introduction (30 minutes)</li>
-    <li>Divide into Working groups
+    <li>Breakout into working groups
       <ul>
         <li>Datasets (1 dataset prepped already)</li>
         <li>Workflow</li>
@@ -193,14 +214,14 @@ h2:after
   </ul>
 </div>
 
-### 10:30am - 10:45am
+### 10:30am
 
 <div class="break_time">
   <img src="images/noun_975695_cc.svg" height="50" style="padding-right:20px">
   <b>Break</b>
 </div>
 
-### 11:30 am
+### 11:00 am
 
 <div class="new_papers">
   <ul>
@@ -208,26 +229,19 @@ h2:after
   </ul>
 </div>
 
-### Noon - 1 pm
+### Noon
 
 <div class="break_time">
   <img src="images/noun_928731_cc.svg" height="50" style="padding-right:20px">
-  Lunch at campus food court.
+  Lunch at Wyckham House (campus food court).
 </div>
 
 ### 1:00 pm
 
 <div class="new_papers">
   <ul>
-    <li>Recap (30 minutes)</li>
-    <li>GitHub Introduction (30 minutes)</li>
-    <li>Divide into Working groups
-      <ul>
-        <li>Datasets (1 dataset prepped already)</li>
-        <li>Workflow</li>
-        <li>Literature (some paper drafting, and literature collection/description)</li>
-        <li>Documentation</li>
-      </ul>
+    <li>Working group updates</li>
+    <li>Breakout into working groups
     </li>
   </ul>
 </div>
@@ -243,7 +257,7 @@ h2:after
 
 <div class="new_papers">
   <ul>
-    <li>Working Groups II: The Revenge</li>
+    <li>Breakout into working Groups Continued (The Revenge)</li>
   </ul>
 </div>
 
@@ -255,11 +269,29 @@ h2:after
   </ul>
 </div>
 
+
+### 6:00pm
+
+<div class="new_papers">
+  <ul>
+    <li> Meet in lobby to travel to dinner at Last Best Brewing & Distilling </li>
+  </ul>
+</div>
+
+
 <div>
   <img src="images/daybreak.svg" width="100%">
 </div>
 
 ## February 23, 2018
+
+### 8:30am
+
+<div class="new_papers">
+  <ul>
+    <li>Breakfast (served in EA 2007)</li>
+  </ul>
+</div>
 
 ### 9:00 am
 
@@ -272,11 +304,27 @@ h2:after
   </ul>
 </div>
 
+### 10:30am
+
+<div class="break_time">
+  <img src="images/noun_975695_cc.svg" height="50" style="padding-right:20px">
+  <b>Break</b>
+</div>
+
+
+### 9:00 am
+
+<div class="new_papers">
+  <ul>
+    <li>Working groups III: </li>
+  </ul>
+</div>
+
 ### Noon - 1 pm
 
 <div class="break_time">
   <img src="images/noun_928731_cc.svg" height="50" style="padding-right:20px">
-  Catered lunch at meeting rooms.
+  Catered lunch in EA2007 (meeting room).
 </div>
 
 ### 1:00 pm
