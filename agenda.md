@@ -265,7 +265,15 @@ h2:after
 
 <div class="new_papers">
   <ul>
-    <li>State of the Workshop - End of day wrap-up</li>
+    <li>State of the workshop</li>
+    <ul>
+      <li>What’s working, what isn’t?</li>
+      <li>Short term priorities for tomorrow?</li>
+      <li>Revisit goals & anticipated product list</li>
+      <li>How will credit be assigned for products?</li>
+      <li>What are long term individual assignments</li>
+      <li>How do we manage accountability going forward</li>
+    </ul>
   </ul>
 </div>
 
