@@ -67,6 +67,15 @@
 - name: Basil Davis
   institution: Universite de Lausanne
   email: basil.davis@unil.ch
+  website: https://www.unil.ch/idyst/home/menuinst/people/official-team-table.html?url_params=-v_faculte=90-v_unite=273-v_personne=1157294-mode=fiche&pubsIdParam=fa021498ecd24c16a495a5f7443a50cb
+  orcid: 0000-0002-7148-1863
+  bio: >
+    My main research interests are in understanding past changes in the Earths climate and land 
+    cover at large continental scales,, primarily through the use of pollen data. The main 
+    applications of this work are in evaluating the impact of pre-historic humans in 
+    deforestationon forests,  change, role of humans in chanreliability of Earth system models 
+    on which we rely.
+  head: /images/DAVIS_photo.jpg
 
 - name: Konrad Gajewski
   institution: University of Ottawa
@@ -81,15 +90,6 @@
     quantitative reconstruction and mapping of past climates as well as understanding 
     human-ecosystem interactions over the past 15000 years. He also has a field/lab program 
     developing new multi-proxy records, particularly from the Canadian Arctic.
-
-
-- name: Simon Brewer
-  institution: University of Utah
-  email: simon.brewer@geog.utah.edu
-  website: https://faculty.utah.edu/u0784726-SIMON_C._BREWER/hm/index.hml
-  orcid: 0000-0002-6810-1911
-  bio: I am interested in the synthesis and analysis of paleoecological and paleoclimate data at broad spatial scales using proxy data and process-based models. 
-  head: /images/brewer_head.jpg
 
 - name: Terri Lacourse
   institution: University of Victoria
@@ -106,4 +106,4 @@
     and integrate the major sources of uncertainties of proxy records (e.g. temporal, 
     climatic or taphonomic) to derive more representative palaeorecords of past 
     spatial-temporal climate variability.
-  head: /images/manual_headshot.png
+  head: /images/manuel_headshot.png
