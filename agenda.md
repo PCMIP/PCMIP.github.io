@@ -75,7 +75,7 @@ h2:after
   <ul>
     <li>Welcome to Mount Royal</li>
     <li>Meeting background, expectations & workplan</li>
-    <li>Introductions [participant list]</li>
+    <li>Introductions [<a href="https://pcmip.github.io/participants/">participant list</a>]</li>
     <li>PCMIP background and progress including: </li>
     <ul>
       <li>Methods overview </li>
@@ -96,7 +96,7 @@ h2:after
 
 <div class="new_papers">
   <ul>
-    <li> Worked example for discussion [Goring] </li>
+    <li> Worked example for discussion [Presentation; <a href="https://www2.cisl.ucar.edu/sites/default/files/11-%20Goring.pdf">white paper</a>; ] </li>
     <li> Worked example for discussion [Tipton & Nolan] </li>
     <li> Discussion and brainstorming on methods, data, and benchmarks </li>
     <li> Revisit goals - Proposed workflow and writing strategy</li>
