@@ -116,7 +116,7 @@ h2:after
   <ul>
     <li>MRU welcome from both:
     <ul>
-        <li>Michael Quinn, Associate Vice President of Research, Scholarhip and Community Engagement, and </li>
+        <li>Michael Quinn, Associate Vice President of Research, Scholarship and Community Engagement</li>
         <li>Karim Dharamsi, Chair, Department of General Education </li>
   </ul></li>
   </ul>
