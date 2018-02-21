@@ -78,7 +78,7 @@ h2:after
     <li>Introductions [<a href="https://pcmip.github.io/participants/">participant list</a>]</li>
     <li>PCMIP background and progress including: </li>
     <ul>
-      <li>Methods overview [<a href="https://docs.google.com/presentation/d/1AEvSZDn9lziYSHGPv1Bo-95T6_eP1-vGMxdORtgokfc/edit?usp=sharing">Presentation</a></li>
+      <li>Methods overview [<a href="https://docs.google.com/presentation/d/1AEvSZDn9lziYSHGPv1Bo-95T6_eP1-vGMxdORtgokfc/edit?usp=sharing">Presentation</a>]</li>
       <li>Introduction of "Practical Benchmarking" </li>
     </ul>
   </ul>
@@ -96,7 +96,7 @@ h2:after
 
 <div class="new_papers">
   <ul>
-    <li> Worked example for discussion [<a href="https://docs.google.com/presentation/d/12qW-I8iFAwHtBf1wHfvd0OLrB__6Fiw28MdRPLnFsfw/edit?usp=sharing">Presentation</a>; <a href="https://www2.cisl.ucar.edu/sites/default/files/11-%20Goring.pdf">white paper</a>; ] </li>
+    <li> Worked example for discussion [<a href="https://docs.google.com/presentation/d/12qW-I8iFAwHtBf1wHfvd0OLrB__6Fiw28MdRPLnFsfw/edit?usp=sharing">Presentation</a>; <a href="https://www2.cisl.ucar.edu/sites/default/files/11-%20Goring.pdf">white paper</a>] </li>
     <li> Worked example for discussion [<a href="/tipton/pcmip-slides.html">Tipton & Nolan</a>] </li>
     <li> Discussion and brainstorming on methods, data, and benchmarks </li>
     <li> Revisit goals - Proposed workflow and writing strategy</li>
