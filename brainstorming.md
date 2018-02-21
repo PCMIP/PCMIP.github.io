@@ -6,6 +6,21 @@ weight: 11
 
 # Groups
 
+## Suggested Questions
+
+* Which climate variables can be reconstructed?
+* The no-analogue vegetation problem
+* The no-analogue climate problem
+* Modern climate data
+* Modern pollen data/training sets
+* Multi-model approaches
+* Multi-proxy approaches
+* The spatial auto-correlation problem
+* Long-distance pollen transport
+* Uniformitarianism
+* Taphonomic, laboratory and sampling errors
+* Any other issues??
+
 ## Session One
 
 (duration: 15 minutes)
